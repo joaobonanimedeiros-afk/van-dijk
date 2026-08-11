@@ -1,0 +1,43 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: radial-gradient(circle, #dd0707, #921526);
+
+  
+
+}
+
+.foto-cabecalho {
+    width: 50%;
+    height: 50%;
+}
+
+.cabecalho {
+    display:flex;
+    align-items: center;
+}
+
+.cabecalho h1 {
+    color:rgb(254, 249, 243);
+    font-size: 90px;
+    margin-left: 20px;
+}
+
+.cartao {
+    background-color: rgba(0, 0, 0, 0.699);
+    padding: 20px;
+    width: 30%;
+}
+
+.cartao-imagem { 
+    width: 100%;
+    height: auto;
+}
+
+.galeria {
+    display:flex;
+}
